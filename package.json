@@ -1,0 +1,22 @@
+{
+  "name": "gem-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karizno/gem-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karizno/gem-automation/issues"
+  },
+  "homepage": "https://github.com/karizno/gem-automation#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
